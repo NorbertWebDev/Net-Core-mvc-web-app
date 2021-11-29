@@ -1,0 +1,65 @@
+@model BookingApiController.Models.BookingModel;
+
+<!-- ======= Book A Table Section ======= -->
+<cache enabled="true" expires-after="@TimeSpan.FromSeconds(30)" expires-sliding="@TimeSpan.FromSeconds(5)">
+  <section id="book-a-table" class="book-a-table">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Reservation</h2>
+        <p>Book a Table</p>
+      </div>
+</cache>
+
+<cache enabled="false">
+  <form asp-controller="BookingApi" asp-action="BookingCreate" method="post" role="form" class="php-email-form"
+    data-aos="fade-up" data-aos-delay="100">
+    <div class="form-row">
+      <div class="col-lg-4 col-md-6 form-group">
+        <input type="text" name="FullName" class="form-control" asp-for="FullName" id="name" placeholder="Your Name"
+          data-rule="minlen:8" data-msg="Please enter at least 8 chars">
+        <div class="validate"></div>
+      </div>
+      <div class="col-lg-4 col-md-6 form-group">
+        <input type="email" class="form-control" name="Email" asp-for="Email" id="email" placeholder="Your Email"
+          data-rule="email" data-msg="Please enter a valid email">
+        <div class="validate"></div>
+      </div>
+      <div class="col-lg-4 col-md-6 form-group">
+        <input type="text" class="form-control" name="PhoneOrMobile" asp-for="PhoneOrMobile" id="phone"
+          placeholder="Your Phone" data-rule="minlen:12" data-msg="Please enter at least 12 chars">
+        <div class="validate"></div>
+      </div>
+      <div class="col-lg-4 col-md-6 form-group">
+        <input type="text" name="Date" class="form-control" asp-for="Date" id="date" placeholder="Date"
+          data-rule="minlen:8" data-msg="Please enter at least 8 chars">
+        <div class="validate"></div>
+      </div>
+      <div class="col-lg-4 col-md-6 form-group">
+        <input type="time" name="Time" class="form-control" asp-for="Time" id="time" placeholder="Time"
+          data-rule="minlen:0" data-msg="Please enter the time">
+        <div class="validate"></div>
+      </div>
+      <div class="col-lg-4 col-md-6 form-group">
+        <input type="number" class="form-control" name="Persons" asp-for="Persons" id="people" placeholder="# of people"
+          data-rule="minlen:1" data-msg="Please enter at least 1 chars">
+        <div class="validate"></div>
+      </div>
+    </div>
+    <div class="form-group">
+      <textarea class="form-control" name="Message" asp-for="Message" rows="5" placeholder="Message"></textarea>
+      <div class="validate"></div>
+    </div>
+    <div class="mb-3">
+      <div class="loading">Loading</div>
+      <div class="error-message"></div>
+      <div class="sent-message"></div>
+    </div>
+    <div class="text-center"><button type="submit">Book a Table</button></div>
+  </form>
+</cache>
+
+<cache enabled="true" expires-after="@TimeSpan.FromSeconds(30)" expires-sliding="@TimeSpan.FromSeconds(5)">
+  </div>
+  </section><!-- End Book A Table Section -->
+</cache>

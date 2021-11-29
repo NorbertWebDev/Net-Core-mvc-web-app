@@ -1,0 +1,265 @@
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.exe
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.deps.json
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.json
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.dev.json
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.pdb
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csprojAssemblyReference.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfoInputs.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfo.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CoreCompileInputs.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.MvcApplicationPartsAssemblyInfo.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.input.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.output.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorCoreGenerate.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.Manifest.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.xml
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.pdb
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.genruntimeconfig.cache
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CopyComplete
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Chefs\Chefs.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Events\Events.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Gallery.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Menu.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Specials\Specials.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\About\About.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Chefs\Chefs.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Events\Events.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Gallery.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Menu.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Specials\Specials.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.old.cshtml.g.cs
+C:\MS VISUAL STUDIO PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.old.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.exe
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.deps.json
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.json
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.dev.json
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.pdb
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csprojAssemblyReference.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfoInputs.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfo.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CoreCompileInputs.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.MvcApplicationPartsAssemblyInfo.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.input.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.output.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorCoreGenerate.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Chefs\Chefs.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Events\Events.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Gallery.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Menu.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Specials\Specials.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cs
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CopyComplete
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.Manifest.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.xml
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.dll
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.pdb
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.genruntimeconfig.cache
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test_Ltd.styles.css
+C:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.pdb
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.exe
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.deps.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.dev.json
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.pdb
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csprojAssemblyReference.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfoInputs.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfo.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CoreCompileInputs.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.MvcApplicationPartsAssemblyInfo.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.Manifest.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.xml
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test_Ltd.styles.css
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.input.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.output.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorCoreGenerate.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Chefs\Chefs.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Events\Events.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Gallery.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Specials\Specials.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cache
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cs
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CopyComplete
+G:\WEB APP PROJECTS\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.genruntimeconfig.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csprojAssemblyReference.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfoInputs.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.AssemblyInfo.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CoreCompileInputs.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.MvcApplicationPartsAssemblyInfo.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorAssemblyInfo.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.pdb
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.json
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.exe
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.deps.json
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.json
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.runtimeconfig.dev.json
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.pdb
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.Manifest.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\staticwebassets\Test_Ltd.StaticWebAssets.xml
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test_Ltd.styles.css
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.input.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.TagHelpers.output.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorCoreGenerate.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\About\About.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Booking.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Chefs\Chefs.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Events\Events.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Gallery.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\Specials\Specials.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cache
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.RazorTargetAssemblyInfo.cs
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.Views.pdb
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.csproj.CopyComplete
+G:\WEB_APP_PROJECTS\.Net Core\Mvc web app\Test_Ltd\AspNet\Test_Ltd\obj\Debug\netcoreapp3.1\Test_Ltd.genruntimeconfig.cache
